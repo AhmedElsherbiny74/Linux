@@ -1,0 +1,6 @@
+MyName = input("Please Enter Your Name")
+MyAge = input("please Enter Your Age")
+MyFaculty = input("please Enter Your Faculty")
+print("My name is "+(MyName))
+print("My AGE is "+(MyAge))
+print("My Faculty is "+(MyFaculty))
